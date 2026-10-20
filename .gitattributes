@@ -1,0 +1,8 @@
+* text=auto
+*.md text eol=lf
+*.m text eol=lf
+*.slx binary
+*.pdf binary
+*.png binary
+*.ms14 binary
+*.ms13 binary

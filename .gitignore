@@ -1,0 +1,15 @@
+# Local inspection and runtime files
+/inspection/
+*.slxc
+slprj/
+*.slx.autosave
+*.asv
+*.autosave
+*.log
+*.tmp
+__pycache__/
+Thumbs.db
+.DS_Store
+.env
+.env.*
+!.env.example
