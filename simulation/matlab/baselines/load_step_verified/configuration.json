@@ -1,0 +1,34 @@
+{
+  "source": "D:\\workspace\\demo\\simulated\\exp_007_008_Ideal_feedforward_diagnostic_test.slx",
+  "sha256": "872cf9f002711e472b96843636fab812af5c461752c1a7e63a6e93eb3372ceee",
+  "blocks": [
+    {
+      "sid": "26",
+      "values": {
+        "SampleTime": "1e-5",
+        "P": "0.005",
+        "I": "0.1",
+        "UpperSaturationLimit": "0.1",
+        "LowerSaturationLimit": "-0.1"
+      }
+    },
+    {
+      "sid": "42",
+      "values": {
+        "Before": "155",
+        "After": "140",
+        "SampleTime": "0"
+      }
+    },
+    {
+      "sid": "34",
+      "values": {
+        "Before": "0.1",
+        "After": "0.15",
+        "SampleTime": "0"
+      }
+    }
+  ],
+  "Cout_note": "rounded to user displayed precision; not full workspace precision",
+  "run_status": "not rerun by Codex"
+}
