@@ -1,0 +1,32 @@
+[
+  {
+    "file": "exp_001_buckopenloop.slx",
+    "sha256": "4a1f5934128540f3178a5a443bb701f7146f628545b8e29b30d01696fc091401",
+    "source": "D:\\workspace\\demo\\simulated\\exp_001_buckopenloop.slx",
+    "note": "原文件名保留；名称编号不保证与本仓库EXP编号对应；未运行复现"
+  },
+  {
+    "file": "exp_002_003_buck_load_step.slx",
+    "sha256": "060d30d9ae10349b773103a9a437fbe56db1f086c1c8ad8b33f18d2a2bab3e97",
+    "source": "D:\\workspace\\demo\\simulated\\exp_002_003_buck_load_step.slx",
+    "note": "原文件名保留；名称编号不保证与本仓库EXP编号对应；未运行复现"
+  },
+  {
+    "file": "exp_004_006_buck_input_step.slx",
+    "sha256": "e6bd727267a30f1632e56804fcd423d90cb28698a220f1c81548de6edaf655d7",
+    "source": "D:\\workspace\\demo\\simulated\\exp_004_006_buck_input_step.slx",
+    "note": "原文件名保留；名称编号不保证与本仓库EXP编号对应；未运行复现"
+  },
+  {
+    "file": "exp_007_008_Ideal_feedforward_diagnostic_test.slx",
+    "sha256": "f2ea8c04b8b9a96439e0af9cd64fcbdd052d8fe2a6ed681d9eaaad63ee57ad4b",
+    "source": "D:\\workspace\\demo\\simulated\\exp_007_008_Ideal_feedforward_diagnostic_test.slx",
+    "note": "原文件名保留；名称编号不保证与本仓库EXP编号对应；未运行复现"
+  },
+  {
+    "file": "exp_009_.slx",
+    "sha256": "f2ea8c04b8b9a96439e0af9cd64fcbdd052d8fe2a6ed681d9eaaad63ee57ad4b",
+    "source": "D:\\workspace\\demo\\simulated\\exp_009_.slx",
+    "note": "原文件名保留；名称编号不保证与本仓库EXP编号对应；未运行复现"
+  }
+]
